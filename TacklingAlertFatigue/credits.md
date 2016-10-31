@@ -1,0 +1,12 @@
+##Image Credits
+* https://www.flickr.com/photos/nokiae51/13950633381/
+* https://www.flickr.com/photos/richardsummers/523686414/
+* https://www.flickr.com/photos/ppapadimitriou/9201073336/
+* https://www.flickr.com/photos/kimeriksson/621870129/
+* https://www.flickr.com/photos/debsilver/102508862/
+* https://www.flickr.com/photos/yourcastlesdecor/14323386992/in/photolist-nPH6W9-7NYUFJ-bxTpuu-6Rjhwc-3uXmm-f17jkv-4T4Ds5-dzPRPZ-6j1PsU-7KvvDn-7NYULd-91k8BQ-phmhM4-7TR654-9LQDLV-5XFLND-oBDwNn-4Xb2L3-7HpUGE-7A4NKR-4m6HHq-3gt8jA-21dbc-pyNHEs-4mM8VA-neEQ8H-6NCaW3-a4gnBr-7NYUQY-dPoCq6-aiR1t8-4Shmo-666Dfo-aebp8e-6nDkE-6JLSsd-dtbpHT-ReyB5-cv9iV5-2sHHNm-bnmSkE-WXfjM-bqwpZN-m3GFx-jmiL6a-n1w19-eAsGk4-izhEW-8XMq8Z-666Cib
+* https://www.flickr.com/photos/glenscott/2593434622/
+* https://www.flickr.com/photos/68877365@N07/9500125786/in/photolist-ftuCqb-9jezut-fwi5YG-cagS-6WvUYp-dRKkmS-4Hs3ot-24whQ-a6yntM-6Kti3J-fsnucL-vQhq-2gmnHY-37jAYS-ARLam-49drf1-58qnqs-ke7AtH-4WXJhG-G3uet-68kmaN-6WSRye-8aqiU-9sjC3v-5mYbEA-5ZH94L-5kNqGH-9YPeeT-2DWhMw-2hBDK-dV2Fo-rr64Q8-8vAHKK-29GEg-2CLtH7-6QV2r5-5u4z4L-JkC4-5peTZ7-F3tqq-fgigu2-dKESSo-2S72xK-qyS5Wd-nbqWJM-qnHWoq-m1osdw-7yC8FT-95K2x1-dKMvt7
+* https://www.flickr.com/photos/greenputty/5250996246/
+* https://www.flickr.com/photos/warriorwoman531/5443359455/
+* https://www.flickr.com/photos/n-r-t/2635927764/
