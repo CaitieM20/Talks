@@ -1,2 +1,2 @@
 # Talks
-repositories of my talks
+This repository contains resources, references & credits for talks I've given.  
