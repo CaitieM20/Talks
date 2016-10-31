@@ -11,3 +11,9 @@ During this talk, we will present the history of RPC and why RPC may not be the 
 * [Finagle](https://twitter.github.io/finagle/)
 * [gRPC](http://www.grpc.io/)
 * [Blog: Remote Procedure Call](https://christophermeiklejohn.com/pl/2016/04/12/rpc.html) by Christopher Meiklejohn
+* [RFC 674](https://tools.ietf.org/html/rfc674)
+* [RFC 684](https://tools.ietf.org/html/rfc684)
+* [RFC 707](https://tools.ietf.org/html/rfc707)
+* [A Critique of the Remote Procedure Call](http://www.cs.vu.nl/~ast/Publications/Papers/euteco-1988.pdf)
+* [RFC 1094 NFS](https://tools.ietf.org/html/rfc1094)
+* [A Note on Distributed Computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7628&rep=rep1&type=pdf)
