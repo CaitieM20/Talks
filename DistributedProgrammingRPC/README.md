@@ -14,6 +14,8 @@ During this talk, we will present the history of RPC and why RPC may not be the 
 * [RFC 674](https://tools.ietf.org/html/rfc674)
 * [RFC 684](https://tools.ietf.org/html/rfc684)
 * [RFC 707](https://tools.ietf.org/html/rfc707)
+* [Implementing Remote Procedure Calls](http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf)
 * [A Critique of the Remote Procedure Call](http://www.cs.vu.nl/~ast/Publications/Papers/euteco-1988.pdf)
 * [RFC 1094 NFS](https://tools.ietf.org/html/rfc1094)
 * [A Note on Distributed Computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7628&rep=rep1&type=pdf)
+* [Spores: Function Passing Style: Typed, Distributed Functional Programming Talk](https://www.youtube.com/watch?v=coX9RKH4rOs)by Heather Miller
