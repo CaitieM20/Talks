@@ -10,7 +10,7 @@ Given at Papers We Love SF: April 2016 [[Video](https://youtu.be/7dc4Tl5ZHRg?lis
 Given at Papers We Love NY: June 2016 [[Video](https://www.youtube.com/watch?v=-3tw2MYYT0Q&feature=youtu.be&t=1h6m17s)] [[Slides](https://speakerdeck.com/caitiem20/pwl-ny-simple-testing-can-prevent-most-critical-failures)] [[Paper](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)]
 
 ## Detection of Mutual Inconsistency in Distributed Systems
-Given at Papers We Love PDX: June 2016 [[Slides](https://speakerdeck.com/caitiem20/papers-we-love-pdx)] [[Paper](http://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf)]
+Given at Papers We Love PDX: June 2016 [No Video] [[Slides](https://speakerdeck.com/caitiem20/papers-we-love-pdx)] [[Paper](http://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf)]
 
 
 
