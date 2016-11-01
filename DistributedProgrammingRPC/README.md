@@ -18,4 +18,6 @@ During this talk, we will present the history of RPC and why RPC may not be the 
 * [A Critique of the Remote Procedure Call](http://www.cs.vu.nl/~ast/Publications/Papers/euteco-1988.pdf)
 * [RFC 1094 NFS](https://tools.ietf.org/html/rfc1094)
 * [A Note on Distributed Computation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7628&rep=rep1&type=pdf)
-* [Spores: Function Passing Style: Typed, Distributed Functional Programming Talk](https://www.youtube.com/watch?v=coX9RKH4rOs)by Heather Miller
+* Spores 
+  * [Strange Loop Talk](https://www.youtube.com/watch?v=coX9RKH4rOs) by Heather Miller
+  * [Spores: A Type-Based Foundation for Closures in the Age of Concurrency and Distribution](https://infoscience.epfl.ch/record/191239/files/spores_1.pdf)
