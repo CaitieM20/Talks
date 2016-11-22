@@ -1,5 +1,5 @@
 # DistributedProgrammingTalk
-References and Credits for A Brief History of Distributed Programing: RPC.  To be given at CodeMesh 2016 [[Slides](https://speakerdeck.com/caitiem20/a-brief-history-of-distributed-programming-rpc)]
+References and Credits for A Brief History of Distributed Programing: RPC.  To be given at CodeMesh 2016 [[Slides](https://speakerdeck.com/caitiem20/a-brief-history-of-distributed-programming-rpc)] [[Video](https://www.youtube.com/watch?v=aDWZyYHj2XM)]
 
 #Abstract
 While many of the distributed systems we operate today are built with language like Java and Go, distributed programming has a long history of innovation and adoption of its ideas. This include innovations seen all throughout the various fields of computing: novel type systems for dynamic languages; the concept of the promise, now a standard programming technique in web development;  and unified models of programming when data lives across nodes. Some of these ideas had major impact, while some fell incredibly short. Many technically superior ideas were not adopted simply because they were too “research” focused.
