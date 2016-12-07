@@ -34,6 +34,7 @@ Distributed Systems are difficult to build and test for two main reasons: partia
  * Game Days
     * [Resilience Engineering: Learning to Embrace Failure](https://queue.acm.org/detail.cfm?id=2371297)
     * [Game Day Exercises at Stripe: Learning from `kill-9`](https://stripe.com/blog/game-day-exercises-at-stripe)
+* Systems Complexity Model from [Architectural Patterns of Resillent Distributed Systems](https://github.com/Randommood/YOW2016)
 * Areas of Research
  * [Cause I'm Strong Enough: Reasoning about Consistency Choices in Distributed Systems](https://pages.lip6.fr/Marc.Shapiro/papers/CISE-POPL-2016.pdf) 
     * [The CISE Tool: Proving Weakly Consistent Applications Correct](https://hal.inria.fr/hal-01279495v1/document)
