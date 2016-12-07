@@ -16,7 +16,7 @@ Given at Women Who Code Sydney Meetup December 2016 [[Slides](https://speakerdec
 * [Brewer's conjecture & the feasibility of consistent, available, partition-tolerant web](http://perso.telecom-paristech.fr/~kuznetso/INF346-2015/papers/cap.pdf)
 * [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 * [Conflict-free Replicated Data Types](https://hal.inria.fr/inria-00609399v1/document)
-* [A Conflict-Free Replicated JSON Datatype](https://martin.kleppmann.com/2016/08/13/json-crdt.html)
+* [A Conflict-Free Replicated JSON Datatype](https://martin.kleppmann.com/2016/08/13/json-crdt.html) Martin Kleppmann et al.
 * [A Comprehensive study of Convergent and Commutative Replicated Data Types](https://hal.inria.fr/inria-00555588)
 * [Readings in Conflict Free Replicated Data Types](https://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html)
 * [Conflict Resolution for Eventual Consistency](https://www.youtube.com/watch?v=8_DfwEpHE88)
