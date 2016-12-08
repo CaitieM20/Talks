@@ -4,7 +4,7 @@ Accompanying Repository for The Verification of a Distributed System Talk to be 
 * [Qcon New York 2016](https://qconnewyork.com/ny2016/presentation/verification-distributed-system) [[Slides](https://speakerdeck.com/caitiem20/qcon-newyork-2016-the-verification-of-a-distributed-system)][[Video](https://www.infoq.com/presentations/distributed-systems-verification)]
 * [YOW Melbourne 2016](http://melbourne.yowconference.com.au/) [[Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system-1)]
 * [YOW Brisbane 2016](http://brisbane.yowconference.com.au/) [[Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system-2)] 
-* [YOW Sydney 2016](http://sydney.yowconference.com.au/)
+* [YOW Sydney 2016](http://sydney.yowconference.com.au/) [[Slides](https://speakerdeck.com/caitiem20/the-verification-of-a-distributed-system-3)]
 
 ## Abstract
 Distributed Systems are difficult to build and test for two main reasons: partial failure & asynchrony.  These two realities of distributed systems must be addressed to create a correct system, and often times the resulting systems have a high degree of complexity.  Because of this complexity, testing and verifying these systems is critically important.  In this talk we will discuss strategies for proving a system is correct, like formal methods, and less strenuous methods of testing which can help increase our confidence that our systems are doing the right thing.
