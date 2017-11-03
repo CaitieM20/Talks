@@ -13,7 +13,7 @@ Given at Papers We Love NY: June 2016 [[Video](https://www.youtube.com/watch?v=-
 Given at Papers We Love PDX: June 2016 [No Video] [[Slides](https://speakerdeck.com/caitiem20/papers-we-love-pdx)] [[Paper](http://zoo.cs.yale.edu/classes/cs422/2013/bib/parker83detection.pdf)]
 
 ## Distributed Programming in Argus
-Given at Papers We Love SF: January 2017 & Papers We Love SEA November 2017 [[Slides]](https://speakerdeck.com/caitiem20/argus-papers-we-love) [[Paper]](https://pdos.csail.mit.edu/6.824/papers/argus88.pdf)
+Given at Papers We Love SF: January 2017 & Papers We Love SEA November 2017 [[Slides](https://speakerdeck.com/caitiem20/argus-papers-we-love)] [[Paper](https://pdos.csail.mit.edu/6.824/papers/argus88.pdf)]
 
 
 
